@@ -28,6 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirthan-a-developer&show_icons=true&locale=en&layout=compact" alt="amirthan-a-developer" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=AMIRTHAN-A-developer" alt="amirthan-a-developer" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AMIRTHAN-A-developer&show_icons=true&theme=radical" alt="GitHub Stats" />
+
 </p>
 
