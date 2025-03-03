@@ -29,7 +29,5 @@
 
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AMIRTHAN-A-developer&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRTHAN-A-developer&layout=compact" alt="Top Languages" />
-
 </p>
 
