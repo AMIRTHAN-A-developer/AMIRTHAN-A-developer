@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **deploying Full-Stack Applications.**
 
-- 📫 How to reach me **amirthan.offical@gmail.com**
+- 📫 How to reach me **amirthan.official@gmail.com**
 
 - ⚡ Fun fact **I started with HTML & CSS, built my first To-Do List App, and now I'm diving into MongoDB & Node.js to become a full-stack developer! 🚀**
 
